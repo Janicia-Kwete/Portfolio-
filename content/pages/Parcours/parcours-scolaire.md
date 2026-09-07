@@ -2,7 +2,11 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
+Mon parcours a commencé par un Bac **STMG**, option **Mercatique**, qui m’a permis de découvrir les domaines du commerce, du marketing et de la gestion. J’ai ensuite effectué une année en Licence **Économie-Gestion**, durant laquelle j’ai développé mes capacités d’analyse et mon autonomie.
+
+Souhaitant m’orienter vers l’informatique, j’ai finalement intégré un BTS **SIO**, option **SLAM**. Cette formation m’a permis d’acquérir des compétences en développement, programmation et gestion de bases de données, notamment à travers différents projets.
+
+Aujourd’hui, mon parcours me permet de combiner mes connaissances en gestion et mes compétences techniques en informatique.
 
 
 
@@ -16,21 +20,6 @@ Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations &
 - **<u>Durée :</u>** 2 ans.
 - **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
 
-
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
-
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
-
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
-
-
-**3. BUT Informatique** (ex-DUT) :
-
-Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
-
-- **<u>Spécialités :</u>** développement, data, systèmes et réseaux, gestion de projets.
-- **<u>Points forts :</u>** pédagogie par projets, bonne réputation auprès des entreprises.
-- **<u>Débouchés :</u>** bac +3 direct, insertion professionnelle ou poursuite en Master/école d’ingénieur.
 
 
 
