@@ -14,7 +14,7 @@ Title: Stage SIO1
 # Présentation de l’association No Limit Education :
 
 
-<img    src="{static}/images/no_limit_education_logo.jpeg" alt="Logo LdV" class="shadow" style="width: 140px;">
+<img    src="{static}/images/logo.jpg" alt="Logo LdV" class="shadow" style="width: 140px;">
 
 
 No Limit Education est une association loi 1901 créée en 2021. Elle a pour objectif de favoriser l’égalité des chances en accompagnant différents publics dans leur parcours scolaire et professionnel. L’association intervient notamment dans l’insertion professionnelle, la lutte contre le décrochage scolaire et l’inclusion numérique.
