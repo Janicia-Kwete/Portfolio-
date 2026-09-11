@@ -37,6 +37,6 @@ Pour réaliser ce projet, j’ai utilisé plusieurs outils comme Figma, FigJam e
 
 Ce projet m’a permis de mieux comprendre les différentes étapes de conception d’un site internet et d’apprendre à utiliser des outils professionnels.
 
-<img    src="{static}/images/stage.jpg" alt="Logo LdV" class="shadow" style="width: 540px;">
+<img    src="{static}/images/stage.png" alt="Logo LdV" class="shadow" style="width: 540px;">
 
 
