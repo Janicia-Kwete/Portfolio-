@@ -22,7 +22,7 @@ Lors de ce TP, j’ai réalisé une calculatrice en Python en utilisant les fonc
 
 Ce TP m’a permis de mieux comprendre la création, l’utilisation et l’organisation des fonctions en Python, ainsi que la manière de rendre un programme plus simple et réutilisable.
 
-<img    src="tp-calculatrice.png" alt="Logo LdV" class="shadow" style="width: 250px;">
+<img    src="{static}/images/tp_calculatrice.png" alt="Logo LdV" class="shadow" style="width: 250px;">
 
 
 
