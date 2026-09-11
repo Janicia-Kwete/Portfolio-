@@ -6,7 +6,7 @@ Title: Projets scolaires
 - Projet Chambort 
 
 
-<img    src="{static}/images/Chambord_Castle_Northwest_facade.jpg" alt="Logo LdV" class="shadow" style="width: 440px;">
+<img    src="{static}/images/images.jpeg" alt="Logo LdV" class="shadow" style="width: 440px;">
 
 
 L’objectif de ce projet était de modifier, compléter et parfois corriger les erreurs présentes sur un site. Il y avait également une partie SISR. Il s’agissait d’un travail en groupe avec un chef de projet. Les tâches devaient donc être correctement réparties et la cohésion de groupe était indispensable pour mener à bien le projet.

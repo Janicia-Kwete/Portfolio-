@@ -29,3 +29,14 @@ L’informatique et le numérique occupent une place importante dans ses activit
 
 
 - Création d'un site internet a l'aide d'un cahier des charge 
+
+
+Durant mon stage, j’ai eu pour mission de réaliser un site internet à partir d’un cahier des charges. Celui-ci m’a permis de comprendre les besoins du projet et de savoir quelles fonctionnalités le site devait proposer.
+
+Pour réaliser ce projet, j’ai utilisé plusieurs outils comme Figma, FigJam et Penpot. J’ai travaillé étape par étape. J’ai d’abord réalisé l’arborescence afin d’organiser les différentes pages du site. Ensuite, j’ai créé les scénarios utilisateurs pour représenter les différents parcours possibles sur le site. Enfin, j’ai réalisé la maquette, qui m’a permis de définir l’apparence et la disposition des éléments.
+
+Ce projet m’a permis de mieux comprendre les différentes étapes de conception d’un site internet et d’apprendre à utiliser des outils professionnels.
+
+<img    src="{static}/images/Capture d’écran du 2026-09-11 08-49-14.png" alt="Logo LdV" class="shadow" style="width: 540px;">
+
+

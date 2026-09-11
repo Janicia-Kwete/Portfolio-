@@ -103,7 +103,7 @@ Couleur des éléments de navigations :
 
 
 .nav-link:hover, .dropdown-item:hover {
-    color: var(--bs-warning);
+    color: rgb(16, 192, 231);
 }
 
 
