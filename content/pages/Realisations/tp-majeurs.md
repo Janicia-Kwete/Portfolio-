@@ -12,7 +12,7 @@ L’objectif de ce TP était de modifier un site de films. Par exemple, il falla
 
 
 
-<img    src="{static}/images/Image collée.png" alt="Logo LdV" class="shadow" style="width: 440px;">
+<img    src="{static}/images/tp_movie.png" alt="Logo LdV" class="shadow" style="width: 440px;">
 
 
 **TP – Calculatrice avec des fonctions**
@@ -22,7 +22,7 @@ Lors de ce TP, j’ai réalisé une calculatrice en Python en utilisant les fonc
 
 Ce TP m’a permis de mieux comprendre la création, l’utilisation et l’organisation des fonctions en Python, ainsi que la manière de rendre un programme plus simple et réutilisable.
 
-<img    src="{static}/images/Image collée (2).png" alt="Logo LdV" class="shadow" style="width: 250px;">
+<img    src="tp-calculatrice.png" alt="Logo LdV" class="shadow" style="width: 250px;">
 
 
 
